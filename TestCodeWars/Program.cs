@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using TestCodeWars;
-Console.WriteLine(3 == KataArrayEvenSum.FindEvenIndex(new int[] { 1, 2, 3, 4, 3, 2, 1 }));
+
+KataStatisticsAA.Stat("00|15|59, 00|16|16, 00|17|20, 00|22|34, 00|19|34, 00|15|17");
