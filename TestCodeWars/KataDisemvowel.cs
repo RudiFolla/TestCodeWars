@@ -9,7 +9,6 @@ namespace TestCodeWars
 {
     public class KataDisemvowel
     {
-        //https://towardsdatascience.com/regular-expressions-clearly-explained-with-examples-822d76b037b4
         public static string Disemvowel(string str)
         {
             string pattern = "[a|A|e|E|i|I|o|O|u|U]{1,1}";
